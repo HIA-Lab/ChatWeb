@@ -6,8 +6,7 @@ Creditos:
   <li>https://www.youtube.com/watch?v=DvlyzDZDEq4</li>
 </ul>
 <br/>
-Requisitos:
-Tener instalado:
+Requisitos:tener instalado:
 <ul>
   <li>NodeJs</li>
   <li>Visual Code</li>
